@@ -1,6 +1,7 @@
 
  // ========================= PIC16F877A Oven Timer (4MHz) =========================
-
+//moustafa samak (62200073)
+//asma hasan (62220078)
 #include <xc.h>
 #include <stdint.h>
 
@@ -625,3 +626,4 @@ int main(void){
         buzzer_update();
     }
 }
+
